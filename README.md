@@ -1,3 +1,15 @@
+<img width="1145" height="732" alt="welcome" src="https://github.com/user-attachments/assets/c491bb08-07ea-4090-ba3f-295f20608424" />
+<img width="1143" height="739" alt="users" src="https://github.com/user-attachments/assets/10839cfa-c229-40b6-ba02-eb94183dab26" />
+<img width="1145" height="738" alt="suppliers" src="https://github.com/user-attachments/assets/95fefd15-f3e5-4b5b-8da6-52c10b85ce6c" />
+<img width="1143" height="741" alt="stock" src="https://github.com/user-attachments/assets/581b0e52-7068-469a-8818-d1784cf0989b" />
+<img width="1144" height="735" alt="sales" src="https://github.com/user-attachments/assets/7a7049bd-aa26-4384-a58f-42ecc4911d3d" />
+<img width="1142" height="733" alt="purchase" src="https://github.com/user-attachments/assets/8e398b80-3eb5-42dc-8bcf-ccc77e8af58f" />
+<img width="1146" height="727" alt="products" src="https://github.com/user-attachments/assets/00504152-1cab-4c33-a270-340e7b81611a" />
+<img width="1225" height="733" alt="logs" src="https://github.com/user-attachments/assets/0b717803-f136-4d12-a080-e2e7e02cbb59" />
+<img width="1231" height="736" alt="logout" src="https://github.com/user-attachments/assets/db51c451-5646-4592-af96-fbf25ffac8da" />
+<img width="471" height="577" alt="login" src="https://github.com/user-attachments/assets/056aa313-e8fa-4322-96fb-dbaf3f097675" />
+<img width="1252" height="852" alt="ERDiagram" src="https://github.com/user-attachments/assets/113ae9a6-4e81-425d-9da2-c1fc52f4a442" />
+<img width="1143" height="732" alt="customers" src="https://github.com/user-attachments/assets/03ff10cf-f1d6-4abc-868e-8d9cd7979d27" />
 # InventoryManagementSystem-MINI-PROJECT--JAVA
 
 This is an Inventory Management System built in the form of a GUI desktop application developed in ***Java*** using ***MySQL*** as its database.
